@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on Abhi Sharma</title>
-    <link>http://abhisharma.me/tags/meta/</link>
+    <link>https://abhisharma.me/tags/meta/</link>
     <description>Recent posts in Meta from Abhi Sharma's blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2015 Abhi Sharma. All rights reserved.</copyright>
     <lastBuildDate>Tue, 04 Aug 2015 00:49:25 -0600</lastBuildDate>
-    <atom:link href="http://abhisharma.me/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhisharma.me/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello (again), World!</title>
-      <link>http://abhisharma.me/posts/hello-again-world/</link>
+      <link>https://abhisharma.me/posts/hello-again-world/</link>
       <pubDate>Tue, 04 Aug 2015 00:49:25 -0600</pubDate>
       
-      <guid>http://abhisharma.me/posts/hello-again-world/</guid>
+      <guid>https://abhisharma.me/posts/hello-again-world/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s good to return to blogging after 7 years and finally make use of my personal domain name. Only time will tell if I end up posting regularly, though!&lt;/p&gt;
 
 &lt;p&gt;This time around, I decided to roll up my sleeves a bit and create a full-fledged and self-hosted personal website. To keep things simple, I opted for a static site generated using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, styled using &lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt; (with a &lt;a href=&#34;https://github.com/keichi/vienna&#34;&gt;prefabricated theme&lt;/a&gt; as the basis), hosted on &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;, and continuously deployed using &lt;a href=&#34;http://wercker.com/&#34;&gt;Wercker&lt;/a&gt;&amp;ndash;all &lt;strong&gt;completely free&lt;/strong&gt;. More details coming in my next post.&lt;/p&gt;
