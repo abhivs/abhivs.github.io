@@ -8,5 +8,14 @@
       <wide310x150logo src="/mstile-310x150.png"/>
       <TileColor>#2d89ef</TileColor>
     </tile>
+    <notification>
+      <polling-uri src="http://notifications.buildmypinnedsite.com/?feed=http://abhisharma.me/index.xml&amp;id=1" />
+      <polling-uri2 src="http://notifications.buildmypinnedsite.com/?feed=http://abhisharma.me/index.xml&amp;id=2" />
+      <polling-uri3 src="http://notifications.buildmypinnedsite.com/?feed=http://abhisharma.me/index.xml&amp;id=3" />
+      <polling-uri4 src="http://notifications.buildmypinnedsite.com/?feed=http://abhisharma.me/index.xml&amp;id=4" />
+      <polling-uri5 src="http://notifications.buildmypinnedsite.com/?feed=http://abhisharma.me/index.xml&amp;id=5" />
+      <frequency>30</frequency>
+      <cycle>1</cycle>
+    </notification>
   </msapplication>
 </browserconfig>
